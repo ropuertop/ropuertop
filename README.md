@@ -56,6 +56,7 @@
       </a> &nbsp;&nbsp;
       <a href="mailto:ropuertop@gmail.com" >
       <img align="center" alt="Rodrigo Puerto | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/ropuertop/" >
       <img align="center" alt="Rodrigo Puerto | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
