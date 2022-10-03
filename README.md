@@ -1,5 +1,5 @@
 ## I'm Rodrigo Puerto!
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+![](https://komarev.com/ghpvc/?username=ropuertop&color=0069b4)
 <table>
   <tr>
     <td>
@@ -11,7 +11,7 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Taabannn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ropuertop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
