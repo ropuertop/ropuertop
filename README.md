@@ -5,7 +5,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Software Engineering at <a href="https://www.unex.es">UNEX</a></li>
+        <li>🎓 &nbsp; B.Sc of Software Engineering at <a href="https://www.unex.es">UEX</a></li>
         <li>👑 &nbsp; Middle Java Back-end Engineer at wefox </li>
         <li>🤔 &nbsp; Interested in AWS solutions</li>
        </ul>
