@@ -6,7 +6,7 @@
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; B.Sc of Software Engineering at <a href="https://www.unex.es">UEX</a></li>
-        <li>👑 &nbsp; Middle Java Back-end Engineer at <a href="https://www.wefox.com">wefox</a></li>
+        <li>👑 &nbsp; Senior Software Engineer at <a href="https://www.wefox.com">wefox</a></li>
         <li>🤔 &nbsp; Interested in AWS solutions</li>
        </ul>
        <p align="center">
